@@ -4,7 +4,7 @@
 
 This application executes basic CLI commands including cat (for displaying file contents), clear (for clearing the terminal screen), echo (for displaying a line of text), help ( for displaying command descriptions), ls (for listing directory contents), mkdir (for creating directories) and pwd (for diplaying the current path directory).
 
-* The entire part was built with Rust. Every command has a separate library, and every command library links with one library called libs.rs. This libs.rs is executed in the main function main.rs.
+* The entire part was built with Rust. Every command has a separate library, and every command library links with one library called libs.rs. This lib.rs is executed in the main function main.rs.
 
 
 ## How to install and use this project ?
