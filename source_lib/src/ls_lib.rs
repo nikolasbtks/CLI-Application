@@ -39,5 +39,3 @@ pub fn ls(string_command: &Vec<String>){
     }
 
 }
-
-// kane to read_dir olo san function kai kale se to analoga me to path mesa sto folder_path h an einai mono tou to ls
