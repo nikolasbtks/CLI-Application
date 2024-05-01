@@ -37,8 +37,7 @@ pub fn usefull_information(string_command: &Vec<String>, command: i32){
 
     if command == 2{
         println!("
-        RCL Version 0.1
-        Made by me.
+        RCL Version 1.0.0
         ")
     }
 }
