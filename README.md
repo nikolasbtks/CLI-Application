@@ -7,6 +7,8 @@ This application executes basic CLI commands including cat (for displaying file 
 * The entire part was built with Rust. Every command has a separate library, and every command library links with one library called libs.rs. This lib.rs is executed in the main function main.rs.
 
 
-## How to install and use this project ?
+## How to install and run this project ?
 
-First, you need to download the entire project from GitHub. Then, setup the Rust enviroment and create a new project. After that, copy and paste the application files you've downloaded into the project that you created.
+This project is for viewing and testing purpose only.
+
+If you wish to test it, you need to download the entire project from GitHub. Then, setup the Rust enviroment and create a new project. After that, copy and paste the application files you've downloaded into the project that you created.
